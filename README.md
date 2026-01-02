@@ -543,6 +543,7 @@ Contributions are always welcome!
 ## SRE Tools
 * [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering tools
 * [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
+* [Replane](https://github.com/replane-dev/replane) - Dynamic configuration manager for feature flags, app settings, and operational config with version history, approvals, and realtime sync
 * [SRE cheat sheet](https://github.com/shibumi/SRE-cheat-sheet) - A cheat sheet for Site Reliability Engineering principles and numbers
 
 ## Podcasts
